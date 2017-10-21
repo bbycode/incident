@@ -1,2 +1,4 @@
 # incident
-Script to validate that the closed Date is not before The Opened Date
+## Client Scripts
+Validate the closed of an incident is after the opened date.
+
